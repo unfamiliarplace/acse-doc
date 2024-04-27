@@ -1,10 +1,10 @@
 # mist tree code
 
-text = input()
-subtext = input()
+a = input()
+b = input()
 
-if subtext in text:
-    print(text.count(subtext))
+if b in a:
+    print(a.count(b))
 else:
     print('0')
 
