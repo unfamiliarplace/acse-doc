@@ -1,7 +1,7 @@
 # mystery code!!!
 
-text_1 = input('')
-text_2 = input('')
-first_and_last = text_1[0] + text_2[-1]
+a = input('')
+b = input('')
+c = a[0] + b[-1]
 
-print(first_and_last)
+print(c)
