@@ -8,4 +8,4 @@ for z in x:
     if z >= 18:
         y.append(z)
 
-print(f'Found {len(y)} people old enough to vote out of {len(x)} total')
+print(f'____ {len(y)} out of {len(x)}')
